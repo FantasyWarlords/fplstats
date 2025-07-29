@@ -2,30 +2,21 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>FPL League Table</title>
+  <title>Fantasy Chips - Gameweek</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       padding: 20px;
-      background: #f4f4f4;
+      background-color: #f9f9f9;
     }
-    h1 {
+
+    h2 {
       text-align: center;
+      color: #333;
     }
+
     table {
       width: 100%;
       border-collapse: collapse;
-      background-color: #fff;
-    }
-    th, td {
-      padding: 8px 12px;
-      text-align: center;
-      border: 1px solid #ccc;
-    }
-    th {
-      background-color: #222;
-      color: white;
-    }
-    tr:nth-child(even) {
-      background-color: #f9f9f9;
-    }
+      margin-top: 20px;
+      b
