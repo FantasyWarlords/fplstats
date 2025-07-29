@@ -1,1 +1,22 @@
-# fplstats
+# Fantasy Chips
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fantasy Chips - Gameweek</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-color: #f9f9f9;
+    }
+
+    h2 {
+      text-align: center;
+      color: #333;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+      b
